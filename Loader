@@ -132,7 +132,7 @@ local function CreateWindow()
 		},
 		Discord = {
 			Enabled = true,
-			Invite = "rtgv8Jp3fM",
+			Invite = "9sxcQzgq",
 			RememberJoins = true
 		}
 	})
